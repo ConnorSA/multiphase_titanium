@@ -1,0 +1,11 @@
+primitive_cell: 'data.Ti_hex_ortho'
+name: HEX
+supercell: [7,12,19]
+start_temp: 100
+final_temp: 800
+pressure: 0000
+iso: False
+
+
+
+
